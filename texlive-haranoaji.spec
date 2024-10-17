@@ -3,7 +3,7 @@ Version:	62100
 Release:	2
 Summary:	Harano Aji Fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/haranoaji
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/haranoaji
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/haranoaji.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/haranoaji.doc.r%{version}.tar.xz
